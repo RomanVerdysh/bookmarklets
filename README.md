@@ -5,4 +5,5 @@
 ![image](https://github.com/RomanVerdysh/bookmarklets/assets/909951/0c62398c-dec4-4f1e-ae62-937b315c704b)
 
 В наличии:
+
 ✅ **Collaborator.js** - добавляет столбец Score с суммированными балами на основе данных из таблицы. Важно чтобы в таблицы были именно такие данные (или переписывайте скрипт):![image](https://github.com/RomanVerdysh/bookmarklets/assets/909951/92d1f14b-697c-41d8-832e-9ac2a649b7a4)
